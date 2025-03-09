@@ -14,9 +14,8 @@ The AI Student Helper follows a **modular multi-agent architecture**, where:
 - A **graph-based workflow (LangGraph)** dynamically determines **execution paths**.
 
 ### **2.1 High-Level Diagram**
-```
+
 ![Flow Diagram](blockdiagram.png)
-```
 
 ---
 
