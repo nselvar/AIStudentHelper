@@ -176,7 +176,6 @@ class Summarizer:
         """Fetches predefined summary prompts from a local JSON file."""
         try:
             with open(os.getcwd() +"/videosummarize/prompts.json", "r", encoding="utf-8") as file:
-                print(os.getcwd() + "\n")
                 data = json.load(file)
                 return data.get("Summarization", "Default summarization prompt")
         except FileNotFoundError:
