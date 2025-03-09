@@ -15,22 +15,7 @@ The AI Student Helper follows a **modular multi-agent architecture**, where:
 
 ### **2.1 High-Level Diagram**
 ```
-+------------------+    
-|  User Request   |    
-+------------------+    
-         |      
-         v      
-+---------------------+    
-|  Supervisor Agent  |    
-+---------------------+    
-         |      
- --------------------------------------------
- |                |                |       |
- v                v                v       v
-+---------+    +---------+    +---------+  +---------+
-| PDF     |    | YouTube |    | Job     |  | Homework|
-| Agent   |    | Agent   |    | Agent   |  | Agent   |
-+---------+    +---------+    +---------+  +---------+
+![Flow Diagram](blockdiagram.png)
 ```
 
 ---
