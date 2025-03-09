@@ -1,0 +1,8 @@
+2025/03/08-18:50:39.187 3c03 Creating DB /Users/nselvarajan/PycharmProjects/Project/chrome_bot/Default/Local Storage/leveldb since it was missing.
+2025/03/08-18:50:39.191 3c03 Reusing MANIFEST /Users/nselvarajan/PycharmProjects/Project/chrome_bot/Default/Local Storage/leveldb/MANIFEST-000001
+2025/03/08-18:56:55.553 3903 Level-0 table #5: started
+2025/03/08-18:56:55.558 3903 Level-0 table #5: 45369 bytes OK
+2025/03/08-18:56:55.561 3903 Delete type=0 #3
+2025/03/08-18:59:43.930 3903 Level-0 table #7: started
+2025/03/08-18:59:43.935 3903 Level-0 table #7: 59034 bytes OK
+2025/03/08-18:59:43.938 3903 Delete type=0 #4

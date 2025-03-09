@@ -1,0 +1,24 @@
+[40004:259:0308/193439.568861:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[40008:259:0308/193439.668241:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[40027:89859:0308/193441.935062:INFO:peer_connection_dependency_factory.cc(802)] Running WebRTC with a combined Network and Worker thread.
+[40027:89859:0308/193442.005798:WARNING:codec.cc(386)] Explicitly added H264 constrained baseline to list of supported formats.
+[40004:259:0308/193442.096507:INFO:CONSOLE(2)] "Error", source: https://client.protechts.net/PXdOjV695v/main.min.js (2)
+[40009:12035:0308/193442.118145:WARNING:host_resolver_dns_task.cc(939)] Address list empty after RFC3484 sort
+[40009:12035:0308/193442.119776:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[40027:126467:0308/193442.123794:WARNING:stun_port.cc(443)] Port[9edac00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[40048:259:0308/193442.202271:ERROR:system_services.cc(31)] SetApplicationIsDaemon: Error Domain=NSOSStatusErrorDomain Code=-50 "paramErr: error in user parameter list" (-50)
+[40004:259:0308/193442.308394:INFO:CONSOLE(54)] "Refused to create a TrustedTypePolicy named 'goog#html' because it violates the following Content Security Policy directive: "trusted-types 'allow-duplicates' default jSecure highcharts dompurify".", source: https://www.googletagmanager.com/gtag/js (54)
+[40004:259:0308/193442.311251:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[40004:259:0308/193442.311269:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[40004:259:0308/193442.455440:INFO:CONSOLE(143)] "Refused to create a TrustedTypePolicy named 'goog#html' because it violates the following Content Security Policy directive: "trusted-types 'allow-duplicates' default jSecure highcharts dompurify".", source: https://www.googletagmanager.com/gtag/js?id=AW-867846157&l=dataLayer&cx=c&gtm=453e5362za200&tag_exp=102067808~102482433~102539968~102587591~102640600~102717422~102788824~102825837 (143)
+[40027:89859:0308/193453.246331:INFO:peer_connection_dependency_factory.cc(802)] Running WebRTC with a combined Network and Worker thread.
+[40027:89859:0308/193453.246732:WARNING:codec.cc(386)] Explicitly added H264 constrained baseline to list of supported formats.
+[40004:259:0308/193453.247809:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[40004:259:0308/193453.247825:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[40004:259:0308/193453.249248:INFO:CONSOLE(2)] "Error", source: https://client.protechts.net/PXdOjV695v/main.min.js (2)
+[40009:12035:0308/193453.254852:WARNING:host_resolver_dns_task.cc(939)] Address list empty after RFC3484 sort
+[40009:12035:0308/193453.255556:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[40027:126467:0308/193453.259915:WARNING:stun_port.cc(443)] Port[9edb000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[40004:259:0308/193453.561964:INFO:CONSOLE(54)] "Refused to create a TrustedTypePolicy named 'goog#html' because it violates the following Content Security Policy directive: "trusted-types 'allow-duplicates' default jSecure highcharts dompurify".", source: https://www.googletagmanager.com/gtag/js (54)
+[40004:259:0308/193453.709385:INFO:CONSOLE(109)] "Refused to create a TrustedTypePolicy named 'goog#html' because it violates the following Content Security Policy directive: "trusted-types 'allow-duplicates' default jSecure highcharts dompurify".", source: https://www.googletagmanager.com/gtag/js?id=AW-851212376&l=dataLayer&cx=c&gtm=453e5362za200&tag_exp=102067808~102482433~102539968~102587591~102640600~102717422~102788824~102825837 (109)
+[40027:126467:0308/193453.770474:WARNING:webrtc_voice_engine.cc(809)] Attempting to stop aecdump when no audio processing module is present

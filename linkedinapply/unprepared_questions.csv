@@ -1,0 +1,20 @@
+numeric,how many years experience do you have in a modern java environment?
+numeric,"do you have experience building microservices? if so, how many years experience?"
+dropdown,"$14 is the hourly rate for this postion. are you fully comfortable with this?
+$14 is the hourly rate for this postion. are you fully comfortable with this?"
+numeric,how many years of work experience do you have with java?
+dropdown,"are you willing to work for chennai location?
+are you willing to work for chennai location?"
+radio,from
+dropdown,"dates attended
+dates attended"
+radio,from
+dropdown,"dates attended
+dates attended"
+numeric,how many years of work experience do you have with java?
+numeric,how many years of work experience do you have with spring boot?
+numeric,how many years of work experience do you have with microservices?
+dropdown,"are u okay with these location chennai, mumbai, pune, indore? 
+are u okay with these location chennai, mumbai, pune, indore?"
+dropdown,"are u okay with week day virtual drive this week 13-feb-25 thursday?
+are u okay with week day virtual drive this week 13-feb-25 thursday?"
