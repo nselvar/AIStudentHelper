@@ -1,7 +1,7 @@
 # AI Student Helper
 
 ## 1. Introduction
-AI Student Helper is a **multi-agent automation system** built with **LangGraph** and **LangChain** to assist students and professionals in automating academic and career-related tasks. It follows a **graph-based workflow execution model**, ensuring efficient **task routing and execution**.
+AI Student Helper is a **multi-agent automation system** built with **LangGraph**  to assist students and professionals in automating academic and career-related tasks. It follows a **graph-based workflow execution model**, ensuring efficient **task routing and execution**.
 
 ---
 
