@@ -60,7 +60,7 @@ Each agent operates independently, executing tasks based on **LLM processing, au
 #### **🎥 YouTube Video Summarizer (`youtube_agent`)**
 - Uses `pytube` to **download transcripts** (if available).
 - If no transcript is available, leverages **Whisper for speech-to-text conversion**.
-- Summarizes content using **LangChain-based AI model**.
+- Summarizes content using **LangGraph-based AI model**.
 
 #### **💼 Job Application Assistant (`job_agent`)**
 - Extracts **resume information**.
@@ -80,7 +80,6 @@ Each agent operates independently, executing tasks based on **LLM processing, au
 |--------------|----------|
 | Python | Core programming language |
 | LangGraph | Manages workflow execution |
-| LangChain | Orchestrates LLM interactions |
 | ChatOpenAI | Provides AI-powered responses |
 | Streamlit | Enables interactive UI |
 | Selenium | Automates job applications |
