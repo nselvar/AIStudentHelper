@@ -147,7 +147,7 @@ Each agent operates independently, executing tasks based on **LLM processing, au
 ## **7. Demo Videos**
 Demo videos are available in the following directory:
 ```
-/Users/nselvarajan/PycharmProjects/AIStudentHelper/demo
+https://github.com/nselvar/AIStudentHelper/tree/main/demo
 ```
 
 ---
