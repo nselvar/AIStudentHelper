@@ -6,6 +6,7 @@ AI Student Helper is a **multi-agent automation system** built with **LangGraph*
 ---
 
 ## 2. System Architecture
+![System Architecture]([https://raw.githubusercontent.com/username/repository/main/images/architecture_diagram.png](https://github.com/nselvar/AIStudentHelper/blob/main/image.png))
 The AI Student Helper follows a **modular multi-agent architecture**, where:
 - A **Supervisor Agent** acts as a **task router**.
 - **Specialized Agents** execute specific tasks based on **user input**.
